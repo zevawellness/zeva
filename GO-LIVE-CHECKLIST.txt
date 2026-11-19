@@ -1,0 +1,217 @@
+==============================================================================
+  ZEVA 2+1 OFFER 2026 — COMPLETE GO-LIVE CHECKLIST
+  Apply these in order. Everything below is copy-paste ready.
+==============================================================================
+
+-----------------------------------------------------------------------------
+STEP 0  ·  BEFORE YOU TOUCH GOOGLE ADS  (do these first, or the ad will fail)
+-----------------------------------------------------------------------------
+
+[ ] FIX THE GOOGLE BUSINESS PROFILE (GBP)  —  business.google.com
+    Open the "ZEVA Women's Fitness & Wellness Studio" profile:
+      [ ] Status:        Open
+      [ ] Location type: Storefront  (NOT service-area)
+      [ ] Address:       Plot No. 796, Khatiwala Tank, Scheme No. 44,
+                         Indore, Madhya Pradesh 452014 (above Zepto)
+      [ ] Map pin:       drag to the exact building
+      [ ] Primary phone: +91 99818 45253
+      [ ] Category:      Gym
+      [ ] Messaging:     Settings → Messaging → TURN ON
+    (Wait ~10 min for Google to sync — the location asset won't link until this is done.)
+
+[ ] HOST THE LANDING PAGE (required — this is now your ad destination)
+    Upload the `zeva-website\` folder to your web host. It is ALREADY LIVE at:
+    https://zevawellness.github.io/zeva/
+    Your Final URL = https://zevawellness.github.io/zeva/
+    (Do NOT use a g.page link — g.page short links are deprecated, and the
+     old <YOUR-GMB-SHORT-LINK> placeholder stops the ad from running.)
+
+-----------------------------------------------------------------------------
+STEP 1  ·  OPEN THE CAMPAIGN  —  ads.google.com
+-----------------------------------------------------------------------------
+
+[ ] Sign in → Campaigns → + New campaign → **Search** campaign
+[ ] Goal: **Calls** (or Leads) — this matches the call-first offer.
+[ ] Name it:  "ZEVA 2+1 Offer 2026"
+
+-----------------------------------------------------------------------------
+STEP 2  ·  CAMPAIGN SETTINGS  (Settings tab)
+-----------------------------------------------------------------------------
+
+[ ] Networks            →  Search Network ONLY  (uncheck Display)
+[ ] Locations           →  Add "Indore"
+                            Add "Khatiwala Tank, Indore" → Bid adjustment = +20%
+[ ] Languages           →  English  (+ Hindi if you want)
+[ ] Daily budget        →  ₹350  (adjustable — works with a ₹1,500 account)
+[ ] Bidding             →  Maximize clicks  (or Maximize conversions if you
+                            set up call conversion tracking)
+[ ] Ad schedule         →  Custom:
+                            Mon 06:00–21:00
+                            Tue 06:00–21:00
+                            Wed 06:00–21:00
+                            Thu 06:00–21:00
+                            Fri 06:00–21:00
+                            Sat 06:00–21:00
+                            (Sun off — by appointment)
+[ ] Devices             →  Mobile bid adjustment = +10%
+[ ] Final URL suffix    →  paste exactly:
+    utm_source=google&utm_medium=cpc&utm_campaign=zeva_2plus1_2026
+[ ] Start date          →  today
+[ ] End date            →  none (set a note to switch off when 20 seats fill)
+
+-----------------------------------------------------------------------------
+STEP 3  ·  AD GROUP  (Ad groups tab)
+-----------------------------------------------------------------------------
+
+[ ] Rename ad group to:  ZEVA 2+1 ₹6000
+
+[ ] KEYWORDS  (add these):
+    +women +gym +indore
+    +ladies +gym +indore
+    +women +only +fitness +studio +indore
+    zeva fitness indore
+    women fitness studio khatiwala tank
+    gym near zepto khatiwala tank indore
+    ladies fitness studio indore
+    women workout studio indore
+    [women only gym indore]
+    [zeva women's fitness studio indore]
+
+[ ] NEGATIVE KEYWORDS:
+    free gym
+    online gym
+    home workout
+    gym membership free
+
+-----------------------------------------------------------------------------
+STEP 4  ·  RESPONSIVE SEARCH AD  (Ads & extensions → + New ad → Responsive search ad)
+-----------------------------------------------------------------------------
+
+FINAL URL:
+https://zevawellness.github.io/zeva/?utm_source=google&utm_medium=cpc&utm_campaign=zeva_2plus1_2026
+
+(← REPLACED. Do not use https://g.page/<YOUR-GMB-SHORT-LINK> — that literal
+   placeholder is why the ad is not delivering. Final URL now = live website.)
+
+PATH 1:  zeva-women
+PATH 2:  indore
+
+HEADLINES  (paste all 15):
+----
+Women-Only Gym Indore
+ZEVA Fitness Studio
+2+1 Months @ ₹6,000
+Ladies Gym in Indore
+Fitness Studio Khatiwala Tank
+Call +91 99818 45253
+Free Trial Session
+Strength • Yoga • Zumba
+Limited to 20 Members
+Physio + Personal Training
+Book Your Free Visit
+Women's Only Studio
+Safe Space for Women
+Try Before You Join
+Offer Ends Soon
+----
+
+DESCRIPTIONS  (paste all 4):
+----
+Women-only studio in Indore. Strength, yoga, Zumba & physio. 2+1 months @ ₹6,000. Call.
+Pay for 2 months, get 1 free — just ₹6,000. Limited to 20 seats. First come, first served.
+New to the gym? Try a free session in our women-only studio in Khatiwala Tank.
+All-female coaches & physios. A safe, supportive women-only space above Zepto, Indore.
+----
+
+[ ] Click  Save
+[ ] (Recommended) Add a second **Call-only ad** for mobile in the same ad group.
+
+-----------------------------------------------------------------------------
+STEP 5  ·  ASSETS / EXTENSIONS  (Ads & extensions → Extensions → + add each)
+-----------------------------------------------------------------------------
+
+[ ] CALL ASSET
+    Phone number:        +91 99818 45253
+    Device:              All devices
+    Call reporting:      ON
+
+[ ] MESSAGE ASSET
+    Type:                WhatsApp
+    Phone:               +91 99818 45253
+    Prefilled text:      Hi ZEVA, I'd like to know more about the 2+1 months offer.
+
+[ ] LOCATION ASSET
+    Select:             "ZEVA Women's Fitness & Wellness Studio"
+    (if not listed → GBP not synced yet, wait 10 min)
+
+[ ] SITELINK ASSETS  (add all 6):
+    1) Link text:  Call Now
+       URL:       tel:+919981845253
+       Desc:       Talk to a coach
+    2) Link text:  WhatsApp Us
+       URL:       https://wa.me/919981845253
+       Desc:       Fast reply on WhatsApp
+    3) Link text:  Get Directions
+       URL:       https://www.google.com/maps?cid=-4506405204382723486
+       Desc:       Open in Maps
+    4) Link text:  ₹6,000 · 2+1 Months
+       URL:       https://zevawellness.github.io/zeva/#offer
+       Desc:       Pay 2 months, get 1 free
+    5) Link text:  Programmes
+       URL:       https://zevawellness.github.io/zeva/services.html
+       Desc:       Strength, Yoga, Zumba
+    6) Link text:  Book Free Trial
+       URL:       https://zevawellness.github.io/zeva/contact.html
+       Desc:       First session free
+
+[ ] CALLOUT ASSET  (add each phrase as its own callout, or comma-list):
+    Women Only
+    Certified Trainers
+    Physio Onsite
+    Free Trial Session
+    2+1 Months @ ₹6,000
+    Limited Seats (20)
+    Above Zepto
+
+[ ] STRUCTURED SNIPPET
+    Header:   Programmes
+    Values:   Strength Training, Yoga, Zumba, Physiotherapy, Personal Training, Weight Loss
+
+[ ] PRICE ASSET  (optional, recommended)
+    Title:        2 + 1 Months @ ₹6,000
+    Currency:     INR
+    Price:        6000
+    Unit:         3 months
+    Description:   Pay for 2 months, get 1 free – limited time, only 20 seats
+    Final URL:    https://zevawellness.github.io/zeva/#offer
+
+-----------------------------------------------------------------------------
+STEP 6  ·  CONVERSIONS  (Tools → Conversions → + New)
+-----------------------------------------------------------------------------
+
+[ ] Phone calls from ads     →  Value ₹750  →  Save
+[ ] (optional) Website call  →  for the landing page's tel: link
+[ ] (optional) Thank-you page →  if you add one after the WhatsApp form
+
+-----------------------------------------------------------------------------
+STEP 7  ·  REVIEW & LAUNCH
+-----------------------------------------------------------------------------
+
+[ ] Use  Ad Preview and Diagnosis  (top search box)
+    Search:  women gym indore
+    Confirm:  Call + Directions + Message buttons all show with the ₹6,000 offer
+[ ] Set campaign status to  ENABLED
+[ ] Watch  Reports → Call details  over the next 24–48 hrs
+
+==============================================================================
+  DONE. The #1 blocker (dead FINAL URL) is now fixed in these docs — set the
+  Final URL to https://zevawellness.github.io/zeva/ and re-save the ad. Calls and
+  Messages come from the Call asset and Message asset, so make sure both are
+  added in Step 5. GBP is already verified Open/5.0★/68 reviews — no need to
+  re-fix it. After re-saving, re-run Ad Preview & Diagnosis for "women gym
+  indore" and look for the Call + Message buttons.
+
+  OFFER SCARCITY: because the offer is limited to 20 members and a limited
+  time, run it for a fixed window (e.g. 2–3 weeks) and pause it once seats
+  fill. Raise the daily budget only if you want results faster.
+==============================================================================

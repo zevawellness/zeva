@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ZEVA">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#2b1b26"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#g)" opacity="0.9"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0.15" stop-color="#8a3f54" stop-opacity="0.85"/>
+      <stop offset="0.7" stop-color="#1d131b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M20 22h24L24 42h20" stroke="#fbf7f2" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="47" cy="46" r="4" fill="#e7b7a8"/>
+</svg>

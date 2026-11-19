@@ -1,0 +1,9 @@
+# Surge.sh custom-domain file — GitHub Pages must not read this
+CNAME
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Local preview tooling
+*.log
